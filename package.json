@@ -1,0 +1,18 @@
+{
+  "name": "dmx-for-kids",
+  "version": "1.0.0",
+  "description": "Project to play with DMX protocol",
+  "main": "index.js",
+  "scripts": {
+    "dmx" : "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/mitrousis/dmx-for-kids#readme",
+  "dependencies": {
+    "dmx": "^0.2.5"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
